@@ -1,0 +1,25 @@
+table {
+    border-collapse: collapse;
+    font-family: "Microsoft YaHei UI", sans-serif;
+}
+
+caption {
+    font-size: larger;
+    margin: 1em auto;
+}
+
+th,td {
+    padding: .65em;
+}
+
+th {
+    background: #333333;
+    border: 1px solid #777777;
+    color: #ffffff;
+}
+
+td {
+    background: #ffffff;
+    border: 1px solid #777777;
+    color: #000000;
+}
