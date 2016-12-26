@@ -134,7 +134,8 @@ body{
   -webkit-border-radius:  0px 0px 25px 25px;
   -moz-border-radius: 0px 0px 25px 25px;
   -o-border-radius: 0px 0px 25px 25px;
-  text-align: right;
+  text-align: center;
+  color: #cccccc;
   border-top: 2px solid #AD4337;
 }
 .login-bottom h3 {
