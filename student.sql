@@ -24,7 +24,6 @@ CREATE TABLE "public"."student" (
 	"name" varchar(45) NOT NULL COLLATE "default"
 )
 WITH (OIDS=FALSE);
-ALTER TABLE "public"."student" OWNER TO "postgres";
 
 -- ----------------------------
 --  Records of student

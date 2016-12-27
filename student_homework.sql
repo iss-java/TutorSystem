@@ -26,7 +26,6 @@ CREATE TABLE "public"."student_homework" (
 	"note" text COLLATE "default"
 )
 WITH (OIDS=FALSE);
-ALTER TABLE "public"."student_homework" OWNER TO "postgres";
 
 -- ----------------------------
 --  Primary key structure for table student_homework
